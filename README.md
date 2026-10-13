@@ -60,8 +60,8 @@
 <div align="center">
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ismail-121&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-121&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
